@@ -1,0 +1,19 @@
+id: P9AD6513A
+initial_creation_type: input
+source_metadata:
+  title: Fifth Dalai Lama Series
+  language: bo
+  description: 'Texts by the Great Fifth Dalai Lama, Ngawang Lobzang Gyatso (ngag
+    dbang blo bzang rgya mtsho, 1617–1682):'
+  volume:
+    8e3348a12e484f9e9fd94c5974caf8c7:
+      title: 'Cloud Banks of Blessings: A Prayer to Guru Padmasambhava'
+      parent: Guru Rinpoche Prayers
+    e918f64bbdc64bcd860b802c8099bed5:
+      title: Prayer for the Long Life of Lochen Ngawang Chöpal
+      parent: Long Life Prayers
+    ac506a9a397642659172fac97263f406:
+      title: A Short Practice for Averting Obstacles through Vajrakīla
+      parent: Practices
+created_at: '2022-02-28T23:14:06.280826'
+last_modified_at: '2022-02-28T23:14:06.280829'
